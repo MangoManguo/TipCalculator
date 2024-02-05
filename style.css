@@ -1,0 +1,60 @@
+html {
+  background-color: #f8c9e2;
+  background-image: url("img/TipJar.webp");
+  background-repeat: no-repeat;
+}
+
+body {
+  width: 650px;
+  margin: 50px auto;
+  font-family: monospace;
+}
+
+button {
+  background-color: antiquewhite;
+  color: rgb(218, 119, 161);
+  border: 0px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-family: monospace;
+  padding: 7px 20px;
+}
+
+button:hover {
+  border: 2px #da77a1 solid;
+}
+
+h1 {
+  font-size: 45px;
+  margin: 0px;
+  padding: 0px 20px 30px;
+  text-align: center;
+}
+
+p {
+  padding: 10px 40px;
+  font-size: 23px;
+}
+
+input {
+  background-color: antiquewhite;
+  border-radius: 5px;
+  border: 2px solid #f78dbb;
+  font-size: 17px;
+  font-family: monospace;
+}
+
+#div1 {
+  background-color: rgba(248, 176, 206, 0.85);
+  padding: 50px;
+  border-radius: 50px 50px 0px 0px;
+  color: rgba(206, 83, 134);
+}
+
+#div2 {
+  margin: 0px;
+  border-radius: 0px 0px 50px 50px;
+  padding: 50px;
+  background-color: rgba(247, 141, 187, 0.9);
+  color: #c24478;
+}
